@@ -1,0 +1,18 @@
+[
+    {
+        "book_id": "7777",
+        "book_name": "bio",
+        "author": "naveen",
+        "category": "obc",
+        "total_copies": 3,
+        "available_copies": 2,
+        "total_issued": 1
+    },
+    {
+        "book_id": "5555",
+        "book_name": "",
+        "author": "chhatru",
+        "category": "code",
+        "available_copies": 5
+    }
+]
